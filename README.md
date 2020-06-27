@@ -7,5 +7,5 @@
 6. import everything
 7. run the scene
 8. move the character with W, A, S, D
-9. select the player on the left and tweak the variables to your liking
+9. select the player on the left and change the variables to your liking
 10. ask me if you have any questions.
